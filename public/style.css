@@ -1,0 +1,16 @@
+body {
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:linear-gradient(135deg,#667eea,#764ba2);
+}
+
+.card {
+  width:320px;
+  padding:30px;
+  border-radius:15px;
+  background:rgba(255,255,255,.15);
+  backdrop-filter:blur(15px);
+  color:white;
+}
